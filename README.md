@@ -1,2 +1,2 @@
 # coolRepo
-a cool combat game i am going to make
+The coolest repo on GitHub
